@@ -34,7 +34,7 @@
         "sylius/cart-bundle": "dev-symfony_3_compatibility",
         "sylius/contact-bundle": "dev-symfony_3_compatibility",
         "sylius/content-bundle": "dev-symfony_3_compatibility",
-        "sylius/currency-bundle": "^0.19",
+        "sylius/currency-bundle": "dev-symfony_3_compatibility",
         "sylius/flow-bundle": "^0.19",
         "sylius/fixtures-bundle": "^0.19",
         "sylius/inventory-bundle": "^0.19",
