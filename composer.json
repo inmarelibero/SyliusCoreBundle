@@ -27,7 +27,7 @@
         "jms/translation-bundle": "^1.1",
         "knplabs/knp-gaufrette-bundle": "~0.1",
         "mathiasverraes/money": "~1.2",
-        "sylius/core": "dev-symfony_3_compatibility",
+        "sylius/core": "dev-symfony_3_compatibility ",
         "sylius/addressing-bundle": "dev-symfony_3_compatibility",
         "sylius/api-bundle": "^0.19",
         "sylius/attribute-bundle": "dev-symfony_3_compatibility",
