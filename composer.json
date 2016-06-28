@@ -58,7 +58,7 @@
         "sylius/variation-bundle": "dev-symfony_3_compatibility",
         "sylius/association-bundle": "dev-symfony_3_compatibility",
         "sylius/review-bundle": "dev-symfony_3_compatibility",
-        "sylius/metadata-bundle": "^0.19",
+        "sylius/metadata-bundle": "dev-symfony_3_compatibility",
         "symfony/framework-bundle": "^3.0",
         "symfony-cmf/routing-bundle": "~1.2",
         "swiftmailer/swiftmailer": "~5.0",
