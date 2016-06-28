@@ -57,7 +57,7 @@
         "sylius/user-bundle": "dev-symfony_3_compatibility",
         "sylius/variation-bundle": "dev-symfony_3_compatibility",
         "sylius/association-bundle": "dev-symfony_3_compatibility",
-        "sylius/review-bundle": "^0.19",
+        "sylius/review-bundle": "dev-symfony_3_compatibility",
         "sylius/metadata-bundle": "^0.19",
         "symfony/framework-bundle": "^3.0",
         "symfony-cmf/routing-bundle": "~1.2",
