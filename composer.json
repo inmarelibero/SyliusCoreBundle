@@ -40,7 +40,7 @@
         "sylius/inventory-bundle": "dev-symfony_3_compatibility",
         "sylius/locale-bundle": "dev-symfony_3_compatibility",
         "sylius/money-bundle": "dev-symfony_3_compatibility",
-        "sylius/order-bundle": "^0.19",
+        "sylius/order-bundle": "dev-symfony_3_compatibility",
         "sylius/payment-bundle": "dev-symfony_3_compatibility",
         "sylius/payum-bundle": "dev-symfony_3_compatibility",
         "sylius/pricing-bundle": "dev-symfony_3_compatibility",
